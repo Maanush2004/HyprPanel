@@ -1107,8 +1107,8 @@ const options = mkOptions(OPTIONS, {
                         command: opt('bash -c "thunar $HOME/Videos/"'),
                     },
                     directory3: {
-                        label: opt('󰚝 Projects'),
-                        command: opt('bash -c "thunar $HOME/Projects/"'),
+                        label: opt('󱍙 Music'),
+                        command: opt('bash -c "thunar $HOME/Music/"'),
                     },
                 },
                 right: {
